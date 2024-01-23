@@ -1,0 +1,18 @@
+# Contributeur
+
+| Propriété | Description | Cardinalité | Cardinalité | Type |
+| ------------ | ------------- | ------------ | ------------ |------------ |
+| Identifiants | Énumération des identifiants connus. | 1..N | 1..N | Objets de la classe utilitaire Identifiant |
+| Nom | Nom complet du contributeur, écrit au long, de la façon dont il doit être affiché à des utilisateurs, avec la capitalisation d'usage, les accents et les espacements usuels. Le prénom et le nom de sont pas traités dans des propriétés distinctes à cause de la diversité des appellations de contributions, qui sont parfois des personnes morales.<br><br>_Exemples: Michel Rivard, Les Trois Accords, Koriass, Desjardins, Spectra | 1 | 1 | Texte long |
+| Noms alternatifs | Autres appellations parfois utilisées pour le contributeur.<br><br>_Exemple: «Béatrice Martin» comme nom alternatif de «Cœur de pirate».<br>Exemple: «Compagnie Jean-Duceppe» comme nom alternatif de «Duceppe»._ | 0..N | 0..N | Énumération de textes libres |
+| Description | Description du contributeur. | 1 | 1 | Texte long multilingue |
+| Description courte | Description résumée du contributeur. La fourchette de 200 à 400 caractères est suggérée pour les différents besoins d'affichage. | 1 | 1 | Texte long multilingue |
+| Média(s) | Éléments médiatiques (photo, audio, audiovidéo, articles, documents...) associé au spectacle. | 0..N | 0..N | Objet de la classe utilitaire Média |
+| Type de contributeur | Indication à l'effet qu'il s'agit d'une personne physique ou d'une personne morale. | 1 | 1 | Objets de la classe Terme utilisant un vocabulaire contrôlé de type de contributeur |
+| Associations géographiques | Permet d'associer des lieux au contributeur, par exemple pour indiquer le lieu de naissance, de décès, le lieu du siège social, etc.<br><br>_Exemple: le contributeur a des associations géographiques avec Saint-Élie-de-Caxton. Ces associations géographiques sont de type «lieu de naissance» et «lieu de résidence».<br>Exemple: le contributeur Cirque Eloize a une association géographique de type «lieu du siège social» avec la gare Dalhousie dans le Vieux-Montréal._ | 0..N | 0..N | Énumération d'objets d'association de lieux (voir les lignes suivantes) |
+| Associations géographiques: type d'association | Indication la relation entre le lieu et le contributeur. Dans le cas où plusieurs types d'associations s'appliquent au même lieu, il faut créer plusieurs associations géographiques (et non pas énumérer plusieurs types dans une même association). | 1 | 1 | Objets de la classe Terme utilisant un vocabulaire contrôlé de type d'associations géographiques |
+| Associations géographiques: pays | Pays | 0..1 | 0..1 | Code ISO 3166-1 à 3 caractères |
+| Associations géographiques: province ou état | Province ou état | 0..1 | 0..1 | Code ISO 3166-2 |
+| Associations géographiques: ville | Ville | 0..1 | 0..1 | Texte court |
+| Composé de  | Énumération des membres des groupes, troupes et collectifs, etc.<br><br>Ne sert pas à indiquer les employés d'une organisation, dans le cas d'un contributeur corporatif.<br><br>_Exemple: le contributeur «Les Denis Drolet» pourrait énumérer «Vincent Léonard» et «Sébastien Dubé» dans la propriété «Composé de»._ | 0..N | 0..N | Objets de la classe Contributeurs |
+| Appartenance à un groupe | (Propriété à confirmer - besoin de l'avis du comité élargi)<br><br>Indications sur l'appartenance à groupe socio-démo-nationaux (afro-descendants, premières nations, LGBTQ, etc.). On pourrait choisir d'indiquer que la donnée ne doit pas servir lors de l'affichage au grand public, mais pour des fins d'analyse statistiques. | 0..N | 0..N | À déterminer |
