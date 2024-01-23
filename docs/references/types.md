@@ -1,5 +1,7 @@
 # Types de propriétés
 
+Les types de propriétés les plus fréquemment utilisés dans le référentiel sont les suivants:
+
 | Type | Description |
 | ------------ |------------ |
 | Texte court | Texte sans formatage, court et sans changement de paragraphes (typiquement affiché sur une seule ligne) |
