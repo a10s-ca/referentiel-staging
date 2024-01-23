@@ -31,7 +31,7 @@ nav:
   - Modèle:
     - Structure et relations: 'modele/structure_et_relations.md'
     - Classes principales: 'modele/classes_principales.md'
-    - Classes secondaires: 'modele/classe_secondaires.md'
+    - Classes utilitaires: 'modele/classe_utilitaires.md'
     - Propriétés des classes: 'modele/proprietes_des_classes.md'
     - Vocabulaires contrôlés: 'modele/vocabulaires_controles.md'
   - Références:
