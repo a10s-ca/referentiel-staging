@@ -1,3 +1,0 @@
-# Classes secondaires
-
-Bacon ipsum dolor amet pancetta jowl ribeye bresaola beef alcatra meatloaf shank tenderloin boudin. Buffalo boudin salami pork belly andouille. Doner kielbasa t-bone swine kevin picanha shank meatball. Turducken prosciutto sirloin, sausage drumstick biltong cupim beef ball tip pastrami bresaola porchetta shank short loin. Bresaola leberkas beef prosciutto pork chop kielbasa chicken spare ribs venison hamburger pig picanha. Pork belly kevin boudin t-bone corned beef leberkas. Cow pancetta chicken beef leberkas.
