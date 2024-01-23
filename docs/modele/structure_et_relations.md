@@ -1,6 +1,6 @@
 # Structure et relations
 
-Le référentiel propose l'utilisation de [classes principales](./classes_principales.md) et de [classes secondaires](./classes_secondaires.md) pour structurer les données.
+Le référentiel propose l'utilisation de [classes principales](./classes_principales.md) et de [classes utilitaires](./classes_utilitaires.md) pour structurer les données.
 
 Les relations entre les classes principales sont illustrées dans le schéma suivant. Les classes utilitaires sont volontairement omises.
 
