@@ -1,6 +1,6 @@
 # Classes principales
 
-Les classes suivantes sont les classes principales du référentiel des métadonnées descriptives du spectacle. Elles servent à modéliser les concepts directement associés aux spectacles : 
+Les classes suivantes sont les **classes principales** du référentiel des métadonnées descriptives du spectacle. Elles servent à modéliser les concepts directement associés aux spectacles : 
 
 * **Spectacle** : la classe centrale du référentiel. Elle permet de documenter ce qui relève du spectacle au sens d'œuvre mise en scène. Par contraste, cela exclut donc les éléments descriptifs des représentations.
 * **Représentation** : cette classe permet de décrire ce qui relève de l’exécution du spectacle à l’intention d’un public. Les informations des représentations complètent celles du spectacle, en précisant par exemple des dates, des lieux, des modalités…
