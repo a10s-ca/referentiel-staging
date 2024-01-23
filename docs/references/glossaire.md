@@ -14,13 +14,13 @@ Sauf avis contraire par une mention de la source, les définitions qui suivent s
 
 **Objet.** Occurrence d’une classe, soit la combinaison des propriétés de la classe et des données servant à décrire une réalité spécifique. Par exemple, l’auteur, compositeur et interprète Richard Desjardins peut être représenté par un objet de la classe Contributeur, qui est différent de l’objet décrivant l’auteur, compositeur et interprète Daniel Bélanger.
 
-**Ontologie.** En informatique et en science de l'information, une ontologie est un modèle de données contenant des concepts et relations permettant de modéliser un ensemble de connaissances dans un domaine donné (source: Wikipédia).
+**Ontologie.** En informatique et en science de l'information, une ontologie est un modèle de données contenant des concepts et relations permettant de modéliser un ensemble de connaissances dans un domaine donné (source: [Wikipédia](https://fr.wikipedia.org/wiki/Ontologie_(informatique))).
 
 **Propriété.** Partie d'un modèle de données qui décrit un attribut d'une classe. Les valeurs associées aux propriétés peuvent être du texte, des nombres, des dates, des caractéristiques,  des états, etc.
 
 **Sérialisation.** Représentation d’un objet sous forme de texte pouvant être stocké dans un fichier, ou affiché à l’écran. Utilisée par différents mécanismes d’échanges de données (API et EDI) pour transmettre l’information. L’opération inverse est la désérialisation. 
 
-**Taxonomie.** Méthode de classification des informations dans une architecture structurée de manière évolutive (source: Wikipédia). Dans le contexte du présent documenté, nous avons choisi d’utiliser le terme «vocabulaire contrôlé» comme appellation générique.
+**Taxonomie.** Méthode de classification des informations dans une architecture structurée de manière évolutive (source: [Wikipédia](https://fr.wikipedia.org/wiki/Taxonomie_(homonymie))). Dans le contexte du présent documenté, nous avons choisi d’utiliser le terme «vocabulaire contrôlé» comme appellation générique.
 
 **Thésaurus.** Collection de mots-clés et de concepts qui sont liés et organisés dans une structure hiérarchique. Dans le contexte du présent documenté, nous avons choisi d’utiliser le terme «vocabulaire contrôlé» comme appellation générique.
 
