@@ -31,7 +31,7 @@ nav:
   - Modèle:
     - Structure et relations: 'modele/structure_et_relations.md'
     - Classes principales: 'modele/classes_principales.md'
-    - Classes utilitaires: 'modele/classe_utilitaires.md'
+    - Classes utilitaires: 'modele/classes_utilitaires.md'
     - Propriétés des classes: 'modele/proprietes_des_classes.md'
     - Vocabulaires contrôlés: 'modele/vocabulaires_controles.md'
   - Références:
@@ -44,12 +44,13 @@ nav:
       - Contributeur: 'references/proprietes/contributeur.md'
       - Lieu: 'references/proprietes/oeuvre.md'
       - Identifiant: 'references/proprietes/identifiant.md'
-      - Offre: 'references/proprietes/lieu.md'
+      - Offre: 'references/proprietes/offre.md'
       - Contribution: 'references/proprietes/contribution.md'
       - Terme: 'references/proprietes/terme.md'
       - Média: 'references/proprietes/media.md'
       - Adresse: 'references/proprietes/adresse.md'
     - Types de propriétés: 'references/types.md'
+    - Glossaire: 'references/glossaire.md'
     - Vocabulaires contrôlés:
       - Types de contributions: 'references/vocabulaires/types_de_contributions.md'
       - Types de contenus: 'references/vocabulaires/types_de_contenus.md'
@@ -61,5 +62,5 @@ nav:
       - Types de lieux: 'references/vocabulaires/types_de_lieux.md'
       - Types de configurations de salles: 'references/vocabulaires/types_de_configurations_de_salles.md'
       - Types de contributeurs: 'references/vocabulaires/types_de_contributeurs.md'
-      - Types d'associations géographiques: 'references/vocabulaires/types_de_contenus.md'
+      - Types d'associations géographiques: 'references/vocabulaires/types_d_associations_geographiques_d_un_contributeur.md'
     - Exemples: 'references/exemples.md'
