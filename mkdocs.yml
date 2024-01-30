@@ -18,7 +18,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
+copyright: Copyright &copy; 2024 Référentiel des métadonnées descriptives du spectacle
 nav:
   - À propos:
     - Bienvenue: 'index.md'
