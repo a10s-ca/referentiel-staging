@@ -5,7 +5,7 @@ L'évolution du référentiel des métadonnées descriptives du spectacle est co
 * [Viêt Cao](mailto:v.cao@synapsec.ca) ([Synapse C](https://synapsec.ca/))
 * [Youri Dominique](mailto:ydominique@adisq.com) ([ADISQ](https://www.adisq.com/))
 * [Geneviève Fabio](mailto:genevieve.fabio@lavitrine.com) ([La Vitrine](https://www.lavitrine.com))
-* [Marie-Pier Pilote](mppilote@associationrideau.ca) ([Association RIDEAU](https://associationrideau.ca/fr) / [Scène Pro](https://scenepro.ca/))
+* [Marie-Pier Pilote](mailto:mppilote@associationrideau.ca) ([Association RIDEAU](https://associationrideau.ca/fr) / [Scène Pro](https://scenepro.ca/))
 
 À l'origine, le référentiel fut une initiative du comité des arts de la scène de la mesure 111 du Plan culturel numérique du Québec et s’inscrivait dans le contexte de la mise en œuvre d'une mesure du Plan culturel numérique du Québec, porté par le ministère de la Culture et des Communications. La première version du référentiel a été réalisée par:
 
