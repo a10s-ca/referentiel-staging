@@ -36,7 +36,7 @@ nav:
     - Propriétés des classes: 'modele/proprietes_des_classes.md'
     - Vocabulaires contrôlés: 'modele/vocabulaires_controles.md'
   - Références:
-    - Propriétés des classes:
+    - Propriétés des classes: 'references/proprietes.md'
       - Spectacle: 'references/proprietes/spectacle.md'
       - Représentation: 'references/proprietes/representation.md'
       - Série: 'references/proprietes/serie.md'
@@ -52,7 +52,7 @@ nav:
       - Adresse: 'references/proprietes/adresse.md'
     - Types de propriétés: 'references/types.md'
     - Glossaire: 'references/glossaire.md'
-    - Vocabulaires contrôlés:
+    - Vocabulaires contrôlés: 'references/vocabulaires.md'
       - Types de contributions: 'references/vocabulaires/types_de_contributions.md'
       - Types de contenus: 'references/vocabulaires/types_de_contenus.md'
       - Avertissements: 'references/vocabulaires/avertissements.md'
