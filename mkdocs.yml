@@ -43,7 +43,7 @@ nav:
       - Lieu: 'references/proprietes/lieu.md'
       - Salle: 'references/proprietes/salle.md'
       - Contributeur: 'references/proprietes/contributeur.md'
-      - Lieu: 'references/proprietes/oeuvre.md'
+      - Oeuvre: 'references/proprietes/oeuvre.md'
       - Identifiant: 'references/proprietes/identifiant.md'
       - Offre: 'references/proprietes/offre.md'
       - Contribution: 'references/proprietes/contribution.md'
