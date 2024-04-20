@@ -7,12 +7,15 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - navigation.indexes
   custom_dir: overrides
 markdown_extensions:
   - toc:
       permalink: true
       title: Sur cette page
   - admonition
+  - attr_list
+  - md_in_html
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
@@ -36,7 +39,9 @@ nav:
     - Propriétés des classes: 'modele/proprietes_des_classes.md'
     - Vocabulaires contrôlés: 'modele/vocabulaires_controles.md'
   - Références:
-    - Propriétés des classes: 'references/proprietes.md'
+    - references/index.md
+    - Propriétés des classes:
+      - references/proprietes/index.md
       - Spectacle: 'references/proprietes/spectacle.md'
       - Représentation: 'references/proprietes/representation.md'
       - Série: 'references/proprietes/serie.md'
@@ -52,7 +57,8 @@ nav:
       - Adresse: 'references/proprietes/adresse.md'
     - Types de propriétés: 'references/types.md'
     - Glossaire: 'references/glossaire.md'
-    - Vocabulaires contrôlés: 'references/vocabulaires.md'
+    - Vocabulaires contrôlés:
+      - references/vocabulaires/index.md
       - Types de contributions: 'references/vocabulaires/types_de_contributions.md'
       - Types de contenus: 'references/vocabulaires/types_de_contenus.md'
       - Avertissements: 'references/vocabulaires/avertissements.md'
