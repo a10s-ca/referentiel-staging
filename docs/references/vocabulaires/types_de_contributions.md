@@ -2,7 +2,7 @@
 
 **Classes liées**: Spectacles, Représentations, Séries, Contributeurs.
 
-**Utilité**: sert à faire le lien entre une personne (humaine, comme un artiste, une autrice, un humoriste, ou morale, comme un diffuseur, une troupe ou un commanditaire) et un spectacle, une représentation ou une série.
+**Utilité**: sert à faire le lien entre une personne (humaine, comme un artiste, une autrice, un humoriste, ou morale, comme un diffuseur, une troupe ou un commanditaire) et un spectacle, une représentation ou une série. À ne pas confondre avec le [type de contributeur](../types_de_contributeurs/), qui indique la nature du contributeur.
 
 **Vocabulaire**: aucun vocabulaire existant n’a été identifié pour l’instant. Le vocabulaire proposé  comme point de départ est le suivant. Il est inspiré par les options pour les crédits dans Scène Pro, et les propriétés de la classe Event dans Schema.org.
 
