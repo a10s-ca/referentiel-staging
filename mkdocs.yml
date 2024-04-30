@@ -42,19 +42,21 @@ nav:
     - references/index.md
     - Propriétés des classes:
       - references/proprietes/index.md
-      - Spectacle: 'references/proprietes/spectacle.md'
-      - Représentation: 'references/proprietes/representation.md'
-      - Série: 'references/proprietes/serie.md'
-      - Lieu: 'references/proprietes/lieu.md'
-      - Salle: 'references/proprietes/salle.md'
-      - Contributeur: 'references/proprietes/contributeur.md'
-      - Oeuvre: 'references/proprietes/oeuvre.md'
-      - Identifiant: 'references/proprietes/identifiant.md'
-      - Offre: 'references/proprietes/offre.md'
-      - Contribution: 'references/proprietes/contribution.md'
-      - Terme: 'references/proprietes/terme.md'
-      - Média: 'references/proprietes/media.md'
-      - Adresse: 'references/proprietes/adresse.md'
+      - Classes principales:
+        - Spectacle: 'references/proprietes/spectacle.md'
+        - Représentation: 'references/proprietes/representation.md'
+        - Série: 'references/proprietes/serie.md'
+        - Lieu: 'references/proprietes/lieu.md'
+        - Salle: 'references/proprietes/salle.md'
+        - Contributeur: 'references/proprietes/contributeur.md'
+        - Oeuvre: 'references/proprietes/oeuvre.md'
+      - Classes utilitaires:
+        - Identifiant: 'references/proprietes/identifiant.md'
+        - Offre: 'references/proprietes/offre.md'
+        - Contribution: 'references/proprietes/contribution.md'
+        - Terme: 'references/proprietes/terme.md'
+        - Média: 'references/proprietes/media.md'
+        - Adresse: 'references/proprietes/adresse.md'
     - Types de propriétés: 'references/types.md'
     - Glossaire: 'references/glossaire.md'
     - Vocabulaires contrôlés:
