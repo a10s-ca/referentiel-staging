@@ -16,8 +16,8 @@
 | Disciplines | Identification des disciplines artistiques du spectacle.  | Obligatoire | 1..N | Objets de la classe [Terme](./terme.md) utilisant un vocabulaire contrôlé de discipline artistique |
 | Discipline principale | Préavis: cette propriété pourrait être intégrée dans une future version du référentiel et imposer un vocabulaire contrôlé. | Ne pas utiliser | 1 | À déterminer |
 | Publics cibles | Identification du public cible du spectacle.<br><br>Lorsque le vocabulaire utilisé contient un terme équivalent à « tout public », il est préférable de l'utiliser, que d'énumérer tous les types de publics. | Obligatoire | 1..N | Objets de la classe [Terme](./terme.md) utilisant un vocabulaire contrôlé de public cible |
-| Langues | Langues utilisées dans le spectacle. | Obligatoire, sauf pour les spectacles sans paroles | 0..N | Énumération de codes ISO 639-1 |
-| Langues d'appui | Langues pour lesquelles des artéfacts d'aide à la compréhension du spectacle sont disponibles (surtitrage, programmes, traduction simultannée...) | Optionnel | 0..N | Énumération de codes ISO 639-1 |
+| Langues | Langues utilisées dans le spectacle, en ordre décroissant d'importance. La langue principale doit donc être mentionnée en premier. | Obligatoire, sauf pour les spectacles sans paroles | 0..N | Énumération de codes IETF BCP 47 |
+| Langues d'appui | Langues pour lesquelles des artéfacts d'aide à la compréhension du spectacle sont disponibles (surtitrage, programmes, traduction simultannée...) | Optionnel | 0..N | Énumération de codes IETF BCP 47 |
 | Spectacle sans parole | Indication que le spectacle ne contient pas de paroles. | Obligatoire | 0..1 | Booléen |
 | Contenus | Permet d'identifier certains type de contenus qui sont présents dans le spectacle. | Optionnel | 0..N | Objets de la classe [Terme](./terme.md) utilisant un vocabulaire contrôlé de type de contenus |
 | Avertissements | Permet d'identifier des avertissements associés au spectacle. | Optionnel | 0..N | Objets de la classe [Terme](./terme.md) utilisant un vocabulaire contrôlé des avertissementsç |
