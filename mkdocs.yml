@@ -25,6 +25,9 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 copyright: Copyright &copy; 2024 Référentiel des métadonnées descriptives du spectacle
+plugins:
+    - search
+    - macros
 nav:
   - À propos:
     - Bienvenue: 'index.md'
@@ -75,3 +78,4 @@ nav:
     - Types de propriétés: 'references/types.md'
     - Glossaire: 'references/glossaire.md'
     - Exemples: 'references/exemples.md'
+
