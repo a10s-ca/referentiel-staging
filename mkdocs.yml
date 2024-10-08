@@ -37,33 +37,29 @@ nav:
     - Objectifs: 'avant_de_commencer/objectifs.md'
     - Composantes: 'avant_de_commencer/composantes.md'
     - Lignes directrices: 'avant_de_commencer/lignes_directrices.md'
-  - Modèle:
-    - Structure et relations: 'modele/structure_et_relations.md'
-    - Classes principales: 'modele/classes_principales.md'
-    - Classes utilitaires: 'modele/classes_utilitaires.md'
+    - Glossaire: 'references/glossaire.md'
+  - Modèle de données:
+    - 'modele/index.md'
+    - Classes principales:
+      - modele/classes_principales/index.md
+      - Spectacle: 'references/proprietes/spectacle.md'
+      - Représentation: 'references/proprietes/representation.md'
+      - Série: 'references/proprietes/serie.md'
+      - Lieu: 'references/proprietes/lieu.md'
+      - Salle: 'references/proprietes/salle.md'
+      - Contributeur: 'references/proprietes/contributeur.md'
+      - Oeuvre: 'references/proprietes/oeuvre.md'
+    - Classes utilitaires:
+      - modele/classes_utilitaires/index.md
+      - Identifiant: 'references/proprietes/identifiant.md'
+      - Offre: 'references/proprietes/offre.md'
+      - Contribution: 'references/proprietes/contribution.md'
+      - Terme: 'references/proprietes/terme.md'
+      - Média: 'references/proprietes/media.md'
+      - Adresse: 'references/proprietes/adresse.md'
     - Propriétés des classes: 'modele/proprietes_des_classes.md'
-    - Vocabulaires contrôlés: 'modele/vocabulaires_controles.md'
-  - Références:
-    - references/index.md
-    - Propriétés des classes:
-      - references/proprietes/index.md
-      - Classes principales:
-        - Spectacle: 'references/proprietes/spectacle.md'
-        - Représentation: 'references/proprietes/representation.md'
-        - Série: 'references/proprietes/serie.md'
-        - Lieu: 'references/proprietes/lieu.md'
-        - Salle: 'references/proprietes/salle.md'
-        - Contributeur: 'references/proprietes/contributeur.md'
-        - Oeuvre: 'references/proprietes/oeuvre.md'
-      - Classes utilitaires:
-        - Identifiant: 'references/proprietes/identifiant.md'
-        - Offre: 'references/proprietes/offre.md'
-        - Contribution: 'references/proprietes/contribution.md'
-        - Terme: 'references/proprietes/terme.md'
-        - Média: 'references/proprietes/media.md'
-        - Adresse: 'references/proprietes/adresse.md'
     - Vocabulaires contrôlés:
-      - references/vocabulaires/index.md
+      - modele/vocabulaires_controles/index.md
       - Accessibilité universelle: 'references/vocabulaires/accessibilite_universelle.md'
       - Avertissements: 'references/vocabulaires/avertissements.md'
       - Disciplines artistiques: 'references/vocabulaires/disciplines_artistiques.md'
@@ -76,6 +72,6 @@ nav:
       - Types de contributions: 'references/vocabulaires/types_de_contributions.md'
       - Types de lieux: 'references/vocabulaires/types_de_lieux.md'
     - Types de propriétés: 'references/types.md'
-    - Glossaire: 'references/glossaire.md'
     - Exemples: 'references/exemples.md'
+
 
