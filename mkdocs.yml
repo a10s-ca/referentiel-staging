@@ -1,4 +1,4 @@
-site_name: Référentiel des métadonnées descriptives du spectacle
+site_name: Datascene - Référentiel des métadonnées descriptives du spectacle
 theme:
   name: material
   language: fr
@@ -24,7 +24,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-copyright: Copyright &copy; 2024 Référentiel des métadonnées descriptives du spectacle
+copyright: Copyright &copy; 2024 Datascence - Référentiel des métadonnées descriptives du spectacle
 plugins:
     - search
     - macros
