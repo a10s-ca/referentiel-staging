@@ -1,6 +1,6 @@
 # Crédits et remerciements
 
-L'évolution du référentiel des métadonnées descriptives du spectacle est coordonné par une équipe terrain composée de:
+L'évolution de Datascene est coordonné par une équipe terrain composée de:
 
 * [Viêt Cao](mailto:v.cao@synapsec.ca) ([Synapse C](https://synapsec.ca/))
 * [Geneviève Fabio](mailto:genevieve.fabio@lavitrine.com) ([La Vitrine](https://www.lavitrine.com))
